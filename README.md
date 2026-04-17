@@ -8,3 +8,4 @@ Computation algebra system. My experiments with SageMath system. Contains variou
 Primary part of ML course. My first experience with Tensorflow (love it so much). Starts with simple models (like linear regression) and go to full numbers recognition network through fully connected and convergent neural networks
 
 ## Job-shop scheduling
+Awkward steps in schedule theory. Examples of solving problems from different classes: Flow shop, Parallel Machines, Job shop, and Open shop.
