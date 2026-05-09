@@ -1,5 +1,3 @@
-import numpy as np
-import torch
 import torch_directml
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 
@@ -27,6 +25,7 @@ def run_test():
         "I'm not sure if I like it, but it's definitely not bad.",
         "Disappointed with the packaging, it arrived damaged.",
         "Simply amazing service, highly recommend to everyone!",
+        "The product arrived today. It's okay, I guess.",
     ]
 
     print("\n" + "=" * 50)

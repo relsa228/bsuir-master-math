@@ -1,5 +1,4 @@
 import numpy as np
-import torch
 import torch_directml
 from datasets import load_dataset
 from transformers import (
